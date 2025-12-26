@@ -4,7 +4,31 @@
 
 I am making this list as an attempt to fill the void of any such open source list. Your contribution is vital to keep the list up-to-date for future students to use. Hence it's a humble request to each user to contribute any new opportunity you discover and update the old ones. Without updation, the web-links will break, and the list will become futile! I'll make sure that any such modification in the `README.md` raised as an issue or submitted as a pull request be timely reviewed and added.
 
-The following are some global research internship positions:
+<p align="center">
+  This repo is maintained in collaboration with <a href="https://zapply.jobs">
+  <img src="https://zapply.jobs/_astro/logo-white.BELjrjiH_Z18qziS.svg" alt="Zapply" height="20" align="center">
+</a>
+</p>
+
+[![Browse Jobs](https://img.shields.io/badge/Browse_Jobs-Live_Site-FF6B35?style=for-the-badge&logo=rocket&logoColor=white)](https://internships.win/)
+[![Zapply](https://img.shields.io/badge/Zapply-Company_Site-4F46E5?style=for-the-badge&logo=zap&logoColor=white)](https://zapply.jobs/)
+[![Discord](https://img.shields.io/badge/Discord-Join_Community-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/yKWw28q7Yq)
+[![Reddit](https://img.shields.io/badge/Reddit-Join-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/r/Zapply/)
+
+## **Join Our Community**
+
+Connect with fellow job seekers, get career advice, share experiences, and stay updated on the latest opportunities. Join our community of developers and CS students navigating their career journey together!
+
+
+ <div align="center">
+  <a href="https://discord.gg/yKWw28q7Yq" target="_blank">
+    <img src="./discord-button.png" width="400"   alt="Join Discord - Job Finder & Career Hub by Zapply">
+  </a>
+</div>
+
+## Global Research Internships
+
+The following are some worldwide research internship positions:
 
 CANADA
 
