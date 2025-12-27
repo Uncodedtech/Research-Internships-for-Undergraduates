@@ -38,8 +38,7 @@ The following are some worldwide research internship positions:
 ## North America
 
 ![rifu-section-na](images/rifu-section-na.png)
-
-#### USA
+#### <img src="images/flags/us.png" width="15"> USA
   * [LPI Summer Intern Program in Planetary Science](https://www.lpi.usra.edu/lpiintern/application/), for both national and international students.
   * [NASA - CalTech Summer Undergraduate Research Fellowship (SURF)](https://www.jpl.nasa.gov/edu/intern/apply/caltech-summer-undergraduate-research-fellowship/), for research positions at Jet Propulsion Laboratory, California Institute of Technology.
   * [Santa Fe Institute Summer Research Experience](https://www.santafe.edu/engage/learn/programs/undergraduate-complexity-research)
@@ -62,7 +61,7 @@ The following are some worldwide research internship positions:
   * [Summer Undergraduate Research Fellowship (SURF), Stanford University](https://engineering.stanford.edu/students-academics/equity-and-inclusion-initiatives/prospective-graduate-programs/summer)
   * [IPAM UCLA Program](http://www.ipam.ucla.edu/programs/student-research-programs/)
 
-#### Canada
+#### <img src="images/flags/ca.png" width="15"> Canada
   * ~~[MITACS Globalink](https://www.mitacs.ca/en/programs/globalink/globalink-research-internship), for research positions in Canada.~~ (NO LONGER AVAILABLE)
   * [University of Alberta Research Experience (UARE)](https://www.ualberta.ca/admissions-programs/visiting-student-and-internship-programs/research-internships/ualberta-research-experience/index.html)
 
@@ -70,7 +69,7 @@ The following are some worldwide research internship positions:
 
 ![rifu-section-europe](images/rifu-section-europe.png)
 
-#### Germany
+#### <img src="images/flags/de.png" width="15"> Germany
   * [Max Planck Institute for Gravitational Physics](https://www.aei.mpg.de/student-internships), for all students. 
   * [Max Planck Institute for Software Systems](https://apply.mpi-sws.org/register/internship/)
   * [Warwick Statistics Internship Scheme](https://warwick.ac.uk/fac/sci/statistics/research/internships/), University of Warwick
@@ -79,11 +78,11 @@ The following are some worldwide research internship positions:
   * [MaxSIP (Max Planck Institute Summer Internship)](https://imprs-ls.opencampus.net/en/maxsip_application_info)
   * [UROP International](http://www.rwth-aachen.de/cms/root/Forschung/Angebote-fuer-Forschende/Angebote-fuer-Studierende/UROP/UROP-INternational/~wnr/Informationen-fuer-Studierende/?lidx=1), RWTH Aachen
   
-#### United Kingdom
+#### <img src="images/flags/gb.png" width="15"> United Kingdom
   * [DSSGx UK Summer Fellowship](https://warwick.ac.uk/research/data-science/warwick-data/dssgx/), University of Warwick
   * [Visual Geometry Group](https://www.robots.ox.ac.uk/~vgg/)
 
-#### Switzerland
+#### <img src="images/flags/ch.png" width="15"> Switzerland
   * [Research fellowship at ETH Zurich](https://www.inf.ethz.ch/studies/summer-research-fellowship.html)  - Application closed
   * [CERN Summer Student Program](https://careers.cern/summer)  
   * [CERN OpenLab for Computer Science Undergraduates](https://openlab.cern/education)
@@ -91,24 +90,24 @@ The following are some worldwide research internship positions:
   * [Summer at EPFL](https://summer.epfl.ch/)
   * [Swissnex Program](https://swissnex.org/india/thinkswiss/)
 
-#### France
+#### <img src="images/flags/fr.png" width="15"> France
   * [OECD Internship Programme (France)](https://www.oecd.org/careers/internship-programme/)
 
-#### Spain
+#### <img src="images/flags/es.png" width="15"> Spain
  * [Summer Training Program,CNIO](https://www.cnio.es/en/education-and-career-development/career-development-programmes/undergraduate-students/)
  * [ Computer Vision Center Internship Program](https://www.cvc.uab.es/internship/)
 
-#### Finland
+#### <img src="images/flags/fi.png" width="15"> Finland
   * [AALTO Summer Internship(3 months)](https://www.aalto.fi/en/aalto-science-institute-asci/aalto-science-institute-international-summer-research-programme)
 
-#### Austria
+#### <img src="images/flags/at.png" width="15"> Austria
   * [ISternship Summer Student Program](https://phd.pages.ist.ac.at/isternship/), IST Austria
 
-#### Turkey
+#### <img src="images/flags/tr.png" width="15"> Turkey
   * [Koç Üniversitesi Research Program](https://vprd.ku.edu.tr/kusrp/)
   * [Sabancı Üniversitesi PURE Summer Research Program](https://pure.sabanciuniv.edu/)
 
-#### Russia
+#### <img src="images/flags/ru.png" width="15"> Russia
   * HSE University, Moscow [Computer Science Internships](https://cs.hse.ru/en/internships/)
 
 ## Asia
