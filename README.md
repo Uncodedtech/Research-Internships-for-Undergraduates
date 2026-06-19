@@ -60,7 +60,6 @@ The following are some worldwide research internship positions:
   * [Summer Undergraduate Research fellowship program](https://www.rockefeller.edu/education-and-training/surf/), Rockfeller Institute
   * [CalTech SURF Program](https://sfp.caltech.edu/undergraduate-research/programs/surf/application_information)
   * [Space Astronomy Summer Program, Space Telescope Science Institute (STScI)](http://www.stsci.edu/opportunities/space-astronomy-summer-program)
-  * ~~[Data Visualization Programming Summer Student Internship in New York City](https://simonsfoundation.wd1.myworkdayjobs.com/en-US/simonsfoundationcareers/job/162-Fifth-Avenue/Data-Visualization-Intern--SCC_R0000579)~~, Flatiron Institute. (NEW LINK NEEDED)
   * [Summer Research Program, Princeton University](https://undergraduateresearch.princeton.edu/programs/summer-programs?field_princeton_status_eligibili_value=Non-Princeton+undergrads&field_class_year_eligibility_value=Juniors&field_division_value=Engineering)
   * International Student Research Internship Program - [McKelvey School of Engineering](https://engineering.wustl.edu/academics/undergraduate-research/international-student-research-internship-program.html)
   * Luddy School of Informatics, Computing, and Engineering - [Global Talent Attraction Program (GTAP)](https://luddy.indiana.edu/research/student-research/fellowship.html)
@@ -74,7 +73,6 @@ The following are some worldwide research internship positions:
   * [IPAM UCLA Program](http://www.ipam.ucla.edu/programs/student-research-programs/)
 
 #### <img src="images/flags/ca.png" alt="Canadian flag" width="15"> Canada
-  * ~~[MITACS Globalink](https://www.mitacs.ca/en/programs/globalink/globalink-research-internship), for research positions in Canada.~~ (NO LONGER AVAILABLE)
   * [University of Alberta Research Experience (UARE)](https://www.ualberta.ca/admissions-programs/visiting-student-and-internship-programs/research-internships/ualberta-research-experience/index.html)
 
 ## Europe
@@ -141,7 +139,6 @@ The following are some worldwide research internship positions:
   * [Yonsei University](https://summer.yonsei.ac.kr/home/program/internship02.asp)
 
 #### <img src="images/flags/tw.png" alt="Taiwanese flag" width="15"> Taiwan
-  * [NTHU Summer Internship Program](http://eng-en.web.nthu.edu.tw/files/14-1130-129169,r1447-1.php)
   * [TIGP-IIP](https://tigpsip.apps.sinica.edu.tw/index.php), Academia Sincia, Taiwan
   * [ITRI Global Internship program](https://www.itri.org.tw/english/ListStyle.aspx?DisplayStyle=05&SiteID=1&MmmID=617731531432246346)
   * [TEEP@Asia (Taiwan)](https://teep.studyintaiwan.org/programs/Engineering)
@@ -197,7 +194,6 @@ The following are some worldwide research internship positions:
   * [Allen Institute for AI, Research and Engineering Internships](https://allenai.org/internships)
 
 #### 🗺️ Global Programs for Indian Students
-* ~~S.N. Bose Scholarship sponsored by IUSSTF~~, it's been closed for almost two years now.
 * [ICTS Summer research program](https://www.icts.res.in/academic/summer-research-program), by ICTS-TIFR.
 * [DAAD Wise Scholarship](https://www.daad.de/go/en/stipa50015295), for research positions in Germany
 * [Shastri Research Student Fellowship](https://www.shastriinstitute.org/shastri-research-student-fellowship) by Shastri Indo-Canadian Institute
